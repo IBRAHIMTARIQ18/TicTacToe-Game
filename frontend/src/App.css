@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+body {
+  background-color: #53b86c;
+  color: white;
+  font-family: "Jersey 10", sans-serif;
+  font-style: normal;
+  text-align: center;
+}
+
+.heading {
+  font-size: 60px;
+}
+
+.game-wrapper {
+  display: flex;
+  justify-content: center;
+}
